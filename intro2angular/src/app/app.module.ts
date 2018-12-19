@@ -15,4 +15,5 @@ import { AppComponent } from './app.component';
   providers: [],
   bootstrap: [AppComponent]
 })
+var test = 0;
 export class AppModule { }
